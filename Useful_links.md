@@ -15,3 +15,8 @@
 3. [Dataset Search](https://datasetsearch.research.google.com/)
 
 <hr>
+
+**Misc databases**
+
+1. [Database about reported Tesla Deaths](https://www.tesladeaths.com/)
+2. [Artificial Intelligence Incident Database](https://incidentdatabase.ai/about_apps)
