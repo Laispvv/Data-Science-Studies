@@ -3,16 +3,12 @@
 ## ❓ Sobre o repositório 
 Repositório dedicado a todos os documentos, anotações, resumos e projetos que criei estudando ciência de dados.
 
-<hr>
-
 ## 📂 Organização
 O Repositório está dividido em:
 - 💼 **BI**: Conteúdos relacionados com Business Intelligence.
 - 📊 **Dados**: Conteúdos relacionados com análise de dados e sobre dados em si.
 - 📈 **Estatística**: Conteúdos de estudos de estatística
 - 💻 **Machine Learning & IA**: Conteúdos sobre machine learning e inteligência artificial
-
-<hr>
 
 ## 📖 Fontes 
 As informações foram tiradas dos seguintes sites, livros ou cursos:
