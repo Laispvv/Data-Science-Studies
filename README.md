@@ -1,19 +1,24 @@
-# Data-Science-Studies
+#  Ciência de Dados 🧪📊
 
-Repositório dedicado a todos os documentos, anotações e resumos que criei estudando ciência de dados.
+## ❓ Sobre o repositório 
+Repositório dedicado a todos os documentos, anotações, resumos e projetos que criei estudando ciência de dados.
 
-## Curso - Google Data Analytics
+<hr>
 
-### Curso 1 - Foundations: Data, Data, Everywhere
+## 📂 Organização
+O Repositório está dividido em:
+- 💼 **BI**: Conteúdos relacionados com Business Intelligence.
+- 📊 **Dados**: Conteúdos relacionados com análise de dados e sobre dados em si.
+- 📈 **Estatística**: Conteúdos de estudos de estatística
+- 💻 **Machine Learning & IA**: Conteúdos sobre machine learning e inteligência artificial
 
-### Curso 2 - Ask Questions to Make Data-Driven Decisions
+<hr>
 
-![](images/Course%202_1.jpg)
-![](images/Course%202_2.jpg)
-![](images/Course%202_3.jpg)
-![](images/Course%202_4.jpg)
-![](images/Course%202_5.jpg)
+## 📖 Fontes 
+As informações foram tiradas dos seguintes sites, livros ou cursos:
 
-### Curso 3 - Prepare Data for Exploration
-
-![](images/prepare%20data.png)
+1. [Curso - Google Data Analytics da Coursera](https://www.coursera.org/professional-certificates/google-data-analytics?)
+   1. Foundations: Data, Data, Everywhere
+   2. Ask Questions to Make Data-Driven Decisions
+   3. Prepare Data for Exploration
+   4. Process Data from Dirty to Clean

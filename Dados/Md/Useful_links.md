@@ -1,7 +1,6 @@
 
 ## Sites and resources for open data
 
-
 **Governamental data**
 1. [U.S. government data site](https://www.data.gov/)
 2. [U.S. Census Bureau](https://www.census.gov/data.html)
