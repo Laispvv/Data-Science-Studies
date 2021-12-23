@@ -31,10 +31,6 @@ Diferencial -> Python, Inglês avançado
 
 - Captura / Classifica / Analisa / Distribui
 
-### Funcionamento de uma indústria
-
-![funcionamento de uma indústria](images/funcionamentoIndustria.png)
-
 ### Sistema ERP
 
 - um sistema ERP é um software de gestão capaz de integrar todas as informações de uma empresa em diferentes módulos
