@@ -8,7 +8,7 @@ Alguns tipos de dados sujos são:
 - **Dados incorretos (Inaccurate data)**: dados completos porém incorretos
 - **Dados inconsistentes (Inconsistent data)**: qualquer dado que use diferentes formas de representar a mesma coisa
 
-#### Limpando dados 🧼
+### Limpando dados 🧼
 
 Ao limpar os dados, certifique-se de:
 
@@ -25,3 +25,9 @@ Ao limpar os dados, certifique-se de:
 
 - [Limpando os dados no Excel](https://support.microsoft.com/en-us/office/top-ten-ways-to-clean-your-data-2844b620-677c-47a7-ac3e-c2e157d1db19)
 - [Limpando do dados no Google Sheets](https://support.google.com/a/users/answer/9604139?hl=en#zippy=)
+
+### Automatizando a limpeza de dados ⚙️
+
+- [Automatizando análise de dados](https://towardsdatascience.com/automating-scientific-data-analysis-part-1-c9979cd0817e)
+- [Automatizando Big-Data](https://news.mit.edu/2016/automating-big-data-analysis-1021)
+- [10 ferramentas para automatização](https://technologyadvice.com/blog/information-technology/top-10-workflow-automation-software/)
