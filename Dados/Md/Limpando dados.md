@@ -23,6 +23,19 @@ Ao limpar os dados, certifique-se de:
 9. **Sempre fazer um Backup antes da limpeza**
 10. **Considerar o tempo de limpeza no prazo final:** o processo de limpeza toma tempo, então é sempre importante considerar ele para se manter dentro dos prazos.
 
+Lista de problemas mais comuns:
+
+- Dados nulos
+- Erros de gramática
+- Erros de casa decimal em números
+- Espaços em branco extras
+- Dados duplicados
+- Tipo de dado incorreto
+- Nome de colunas incorreto ou sem sentido
+- Dados formatados de forma inconsistente
+
+Guias de limpeza em Planilhas:
+
 - [Limpando os dados no Excel](https://support.microsoft.com/en-us/office/top-ten-ways-to-clean-your-data-2844b620-677c-47a7-ac3e-c2e157d1db19)
 - [Limpando do dados no Google Sheets](https://support.google.com/a/users/answer/9604139?hl=en#zippy=)
 
