@@ -44,3 +44,14 @@ Guias de limpeza em Planilhas:
 - [Automatizando análise de dados](https://towardsdatascience.com/automating-scientific-data-analysis-part-1-c9979cd0817e)
 - [Automatizando Big-Data](https://news.mit.edu/2016/automating-big-data-analysis-1021)
 - [10 ferramentas para automatização](https://technologyadvice.com/blog/information-technology/top-10-workflow-automation-software/)
+
+### Validando dados limpos ✅
+
+Após a limpeza, é importante se certificar de que os dados são válidos, fazendo os seguintes tipos de validação:
+
+1. **Tipo do Dado | Data Type**: checar se o tipo de dado bate com o tipo do campo *(ex.: um valor de quantidade deve ser do tipo numérico)*
+2. **Extensão dos Dados | Data Range**: checar se o valor está dentro dos limites permitidos pelo campo *(ex.: um valor para mês deve estar entre 1 e 12)*
+3. **Restrição dos Dados | Data Constraints**: verificar se o dado cumpre as restrições do campo *(ex.: campo de CPF com 11 dígitos)*
+4. **Consistência dos Dados | Data Consistency**: verificar se o dado faz sentido no contexto *(ex.: a data de entrega de um produto não pode ser antes da data de envio do produto)*
+5. **Estrutura do Dado | Data Structure**: o dado deve estar conforme a estrutura do campo *(ex.: um dado para uma tabela de um site deve ter a estrutura de tabela)*
+6. **Validação do Código | Code Validation**:  checar se o código já faz qualquer uma das validações acima na coleta de dados do usuário *(ex.: limitar a entrada de notas de uma prova para valores entre 0 e 10)*

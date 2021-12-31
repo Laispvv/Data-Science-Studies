@@ -18,3 +18,4 @@ As informações foram tiradas dos seguintes sites, livros ou cursos:
    2. Ask Questions to Make Data-Driven Decisions
    3. Prepare Data for Exploration
    4. Process Data from Dirty to Clean
+   5. Analyze Data to Answer Questions
