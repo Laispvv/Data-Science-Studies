@@ -9,6 +9,7 @@ O Repositório está dividido em:
 - 📊 **Dados**: Conteúdos relacionados com análise de dados e sobre dados em si.
 - 📈 **Estatística**: Conteúdos de estudos de estatística
 - 💻 **Machine Learning & IA**: Conteúdos sobre machine learning e inteligência artificial
+- 🎨 **Visualização**: Conteúdos sobre visualização de dados.
 
 ## 📖 Fontes 
 As informações foram tiradas dos seguintes sites, livros ou cursos:
@@ -19,3 +20,4 @@ As informações foram tiradas dos seguintes sites, livros ou cursos:
    3. Prepare Data for Exploration
    4. Process Data from Dirty to Clean
    5. Analyze Data to Answer Questions
+   6. Share Data Through the Art of Visualization
