@@ -3,7 +3,7 @@
 ## Método de McCandless
 ![imagem do método de McCandless](./../images/What-Makes-a-Good-Infoviz-frame.png)
 
-1. 📊 **Informação (Information): os dados**
+1. 📊 **Informação (Information):** são os dados
 2. 🎬 **História (Story):** uma narrativa do conceito
 3. 🎯 **Objetivo (Goal):** o objetivo ou função da visualização
 4. 🎨 **Forma Visual (Visual Form):** a forma de apresentar, a expressão visual
@@ -48,6 +48,6 @@ São aspectos visuais que representam características dos dados, são Marks usa
 
 ## 🔗 Links úteis
 - [The beauty of data visualization](https://www.ted.com/talks/david_mccandless_the_beauty_of_data_visualization?language=en#t-150183)
--[‘The McCandless Method’ of data presentation](https://artscience.blog/home/the-mccandless-method-of-data-presentation)
+- [‘The McCandless Method’ of data presentation](https://artscience.blog/home/the-mccandless-method-of-data-presentation)
 - [Information is beautiful](https://informationisbeautiful.net/)
 - [Beautiful daily news](https://informationisbeautiful.net/beautifulnews/)
