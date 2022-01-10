@@ -30,6 +30,16 @@
 - Serve para medir **Agrupamento ou Clustering**, que são uma coleção de pontos com valores similares ou diferentes
 ![gráfico de distribuição de café](../images/distribuicao%20de%20cafe.png)
 
+## Componentes da visualização
+
+Componente | Guidelines | Dicas
+-|-|-
+Títulos / Headlines | Descreve brevemente os dados, manter o título no tamanho do gráfico e acima dele | não usar italico, capslock, acrônimos, abreviações
+Subtítulos / Subtitles | Descreve o contexto dos dados, mantendo o mesmo tamanho do título ou menor e diretamente abaixo do título | Use um tamanho de fonte menor que do título, não use caps, itálico ou negrito, abreviações ou acrônimos
+Labels | Substituem a necessidade de legendas, possuem menos de 30 caracteres e estão próximas aos dados ou eixos | Use poucas palavras, cores bem pensadas e não use caps, itálico ou negrito
+Anotações / Annotations | Chamam atenção para um dado, o tamanho varia e devem estar perto do dado | Não use caps, itálico ou negrito nem nada que possa distrair o espectador dos dados principais
+
+
 ## Como Escolher o Melhor Gráfico Para os Seus Dados? 🤔
 
 ![escolher melhor gráfico para os dados](./../images/escolher%20melhor%20grafico.png)

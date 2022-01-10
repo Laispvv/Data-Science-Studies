@@ -46,8 +46,20 @@ São aspectos visuais que representam características dos dados, são Marks usa
 - Esconder tendências em gráficos acumulativos
 - Suavizar tendências de forma artificial
 
+## Usando Design Thinking para melhorar visualizações 💭
+
+Há 5 fases do desing thinking para visualização de dados:
+
+1. **Ênfase**: pensar nas emoções e necessidades da audiência para com os dados
+2. **Definição**: descobrir o que exatamente do que a audiência precisa
+3. **Idealize**: gere ideias para a visualiação
+4. **Prototipação**: faça protótipos e peça feedbacks
+5. **Teste**: mostre as visualizações para outras pessoas antes de mostrar para os stakeholders
+
 ## 🔗 Links úteis
 - [The beauty of data visualization](https://www.ted.com/talks/david_mccandless_the_beauty_of_data_visualization?language=en#t-150183)
 - [‘The McCandless Method’ of data presentation](https://artscience.blog/home/the-mccandless-method-of-data-presentation)
 - [Information is beautiful](https://informationisbeautiful.net/)
 - [Beautiful daily news](https://informationisbeautiful.net/beautifulnews/)
+- [Three Critical Aspects of Design Thinking for Big Data Solutions](https://dataconomy.com/2019/05/three-critical-aspects-of-design-thinking-for-big-data-solutions/)
+- [Data and Design Thinking: Why Use Data in the Design Process?](https://www.enginess.io/insights/data-and-design-thinking)
